@@ -1,6 +1,6 @@
 # Hybrid Foundation Model (HFM) for Industrial Visual Inspection
 
-Code for the paper **"Industrial Visual Inspection Using Self-Supervised, Few-Shot and Zero-Shot Learning"** (Hedieh Sajedi, Abolfazl Khojasteh Abkenar), 
+Code for the paper **"Industrial Visual Inspection Using Self-Supervised, Few-Shot and Zero-Shot Learning"** (Hedieh Sajedi, Abolfazl Khojasteh Abkenar)
 
 
 ## What this repository contains
